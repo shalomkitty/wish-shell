@@ -1,4 +1,4 @@
-# wish — A Simple Unix Shell (OSTEP)
+# wish — Unix Shell (OSTEP)
 
 A **C (POSIX)** implementation of the OSTEP Unix Shell project.
 
