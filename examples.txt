@@ -1,0 +1,4 @@
+pwd
+path /bin /usr/bin
+echo hello from wish
+echo one & echo two
